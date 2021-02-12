@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,kBACE,oBACF,CAEA,kBACE,cAAe,CACf,iBACF","file":"main.2f7cb044.chunk.css","sourcesContent":[".form-check-input {\n  transform:scale(1.3);\n}\n\n.form-check-label {\n  font-size: 20px;\n  margin-right: 25px;\n}"]}
